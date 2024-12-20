@@ -1,0 +1,9 @@
+﻿  Code_Team1.cpp
+C:\Users\morri\OneDrive\문서\대학(1-2)\문제해결기법(화7, 목12)\강의 자료\팀 프로젝트\Code_Team1\Code_Team1\Code_Team1.cpp(286,34): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\morri\OneDrive\문서\대학(1-2)\문제해결기법(화7, 목12)\강의 자료\팀 프로젝트\Code_Team1\Code_Team1\Code_Team1.cpp(287,28): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\morri\OneDrive\문서\대학(1-2)\문제해결기법(화7, 목12)\강의 자료\팀 프로젝트\Code_Team1\Code_Team1\Code_Team1.cpp(312,31): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\morri\OneDrive\문서\대학(1-2)\문제해결기법(화7, 목12)\강의 자료\팀 프로젝트\Code_Team1\Code_Team1\Code_Team1.cpp(313,27): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\morri\OneDrive\문서\대학(1-2)\문제해결기법(화7, 목12)\강의 자료\팀 프로젝트\Code_Team1\Code_Team1\Code_Team1.cpp(353,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\morri\OneDrive\문서\대학(1-2)\문제해결기법(화7, 목12)\강의 자료\팀 프로젝트\Code_Team1\Code_Team1\Code_Team1.cpp(351): warning C4715: 'find_tag_arr': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\morri\OneDrive\문서\대학(1-2)\문제해결기법(화7, 목12)\강의 자료\팀 프로젝트\Code_Team1\Code_Team1\Code_Team1.cpp(367): warning C4715: 'find_tag_list': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Code_Team1.vcxproj -> C:\Users\morri\OneDrive\문서\대학(1-2)\문제해결기법(화7, 목12)\강의 자료\팀 프로젝트\Code_Team1\x64\Debug\Code_Team1.exe
